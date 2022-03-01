@@ -1,6 +1,6 @@
 {
   "name": "openrgb-title-switcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Switch OpenRGB profiles based on window title",
   "main": "index.js",
   "scripts": {
