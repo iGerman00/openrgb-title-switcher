@@ -6,6 +6,7 @@ Setup:
 - Clone this repository
 - Install node
 - Customize config.json with any editor to suit your needs
-- Use any method to launch this command in the cloned directory:
+- Use any method to launch these commands in the cloned directory:  
+`npm install`  
 `node index.js`
 - Keep the script running somehow, I suggest pm2
