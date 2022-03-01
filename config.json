@@ -1,0 +1,7 @@
+{
+"update_frequency": 500,
+"enableDefaultProfile": true,
+"defaultProfileName": "a",
+"server_port": 6742,
+"server_host": "localhost"
+}
