@@ -3,5 +3,6 @@
 "enableDefaultProfile": true,
 "defaultProfileName": "a",
 "server_port": 6742,
-"server_host": "localhost"
+"server_host": "localhost",
+"start_delay_ms": 15000
 }
