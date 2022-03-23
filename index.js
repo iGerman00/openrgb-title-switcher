@@ -34,7 +34,7 @@ async function start() {
 
   setInterval(async () => {
     const win = await activeWindow({});
-    if (win.owner.name.toLocaleLowerCase() !== windowName.toLocaleLowerCase()) {
+    if (win && win.owner.name.toLocaleLowerCase() !== windowName.toLocaleLowerCase()) {
       console.log("Current window name: " + win.owner.name.toLocaleLowerCase());
       windowName = win.owner.name.toLocaleLowerCase();
     }
